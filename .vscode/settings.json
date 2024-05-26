@@ -1,5 +1,6 @@
 {
     "dataworkspace.excludedProjects": [
         "trigger/trigger.sqlproj"
-    ]
+    ],
+    "mssql.splitPaneSelection": "end"
 }
