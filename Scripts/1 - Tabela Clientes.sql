@@ -1,4 +1,5 @@
 -- Criação da tabela
+use dotnet
 CREATE TABLE [dbo].[Clientes](
 	[Id] [int] IDENTITY(1,1) NOT NULL,
 	[Nome] [varchar](255) NULL,

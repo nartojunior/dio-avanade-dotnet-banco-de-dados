@@ -1,3 +1,5 @@
+use dotnet
+
 DROP TABLE IF EXISTS dbo.Produtos
 
 CREATE TABLE Produtos (
